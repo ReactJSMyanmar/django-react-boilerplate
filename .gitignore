@@ -1,8 +1,12 @@
-env
-**/*.pyc
-**/__pycache__
-db.sqlite3
-node_modules
-build
-static
-package-lock.json
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
